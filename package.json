@@ -1,0 +1,12 @@
+{
+  "name": "back-end-portfolio",
+  "version": "1.0.0",
+  "description": "Zuri Full Stack Week 4 Task",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server"
+  },
+  "author": "\"Crimson\"",
+  "license": "ISC",
+  "type": "module"
+}
