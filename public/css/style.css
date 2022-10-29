@@ -15,7 +15,7 @@ body {
   color: white;
   min-height: 100vh;
   font-family: Poppins, sans-serif;
-  background-color: #020b16;
+  background-color: #e91b1b;
 }
 
 a {
@@ -189,7 +189,7 @@ section {
   content: "";
   position: absolute;
   z-index: -1;
-  background-image: linear-gradient(to bottom, #072142, #061c37, #07182b, #061220, #020b16);
+  background-image: linear-gradient(to bottom, #3d0505, #061c37, #3d0505, #061220, #3d0505);
 }
 #hero .hero-content {
   display: flex;
